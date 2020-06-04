@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Server_sql_thread">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/Server_sql_thread_jar/Server_sql_thread.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
